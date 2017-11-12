@@ -238,6 +238,8 @@ user = user, password = password
 Теперь, необходимо разобраться, как всё это дело настраивать.
 Ну и мы не хотим жёстко забивать конкретный логин и пароль. Это совсем странно )
 В этом нам поможет следующая документация:
-Spring Boot: глава [28. Security](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-security)
-
-Spring security: [Spring Security Reference](https://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/)
+Spring Boot:
+- глава [28. Security](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-security)
+Spring security:
+- [Spring Security Reference](https://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/)
+- [Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
